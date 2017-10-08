@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":false,"name":"template_map","order":1,"parentId":0,"scrollX":819,"scrollY":466},
+{"id":2,"expanded":false,"name":"病院","order":2,"parentId":0,"scrollX":819,"scrollY":466},
+{"id":3,"expanded":true,"name":"イコプ退治ゲーム","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"イコプ退治ゲーム＿EXTRA","order":6,"parentId":0,"scrollX":819,"scrollY":466},
+{"id":5,"expanded":false,"name":"ゲームオーバー","order":4,"parentId":0,"scrollX":819,"scrollY":466},
+{"id":6,"expanded":false,"name":"エンディング","order":5,"parentId":0,"scrollX":832,"scrollY":640}
+]
